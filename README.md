@@ -8,7 +8,7 @@ An Android library which helps you get custom views for your app's login page, l
 | ------------- | ------------- |
 | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/1.jpg "Logo")  | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/2.jpg "Logo")  |
 | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/3.jpg "Logo") | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/4.jpg "Logo")  |
-| ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/5.jpg "Logo") | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/6.jpg "Logo")  |
+| ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/github_pics/5.jpg "Logo") |   |
 
 
 # Setup
