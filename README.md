@@ -4,6 +4,13 @@
 
 An Android library which helps you get custom views for your app's login page, like enter Email ID or enter Password view.
 
+|   |  |
+| ------------- | ------------- |
+| ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/airloginviews/github_pics/1.jpg "Logo")  | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/airloginviews/github_pics/2.jpg "Logo")  |
+| ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/airloginviews/github_pics/3.jpg "Logo") | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/airloginviews/github_pics/4.jpg "Logo")  |
+| ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/airloginviews/github_pics/5.jpg "Logo") | ![alt text](https://github.com/mumayank/AirLoginViewsProject/blob/master/airloginviews/github_pics/6.jpg "Logo")  |
+
+
 # Setup
 
 In root build.gradle
