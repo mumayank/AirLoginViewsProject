@@ -27,6 +27,7 @@ In app build.gradle
 ```gradle
 dependencies {
   implementation 'com.github.mumayank:AirLoginViewsProject:LATEST_VERSION' // this line
+  implementation 'com.google.android.material:material:1.2.0-alpha01' // or the latest version of this lib
 }
 ```
 where LATEST_VERSION is [![](https://jitpack.io/v/mumayank/AirLoginViewsProject.svg)](https://jitpack.io/#mumayank/AirLoginViewsProject)
